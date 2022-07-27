@@ -18,7 +18,7 @@ h1 {
 
 h2 {
     color: white;
-    padding: 150px 0px;
+    padding: 150px 0px 10px 0px;
 }
 
 p {
@@ -34,4 +34,9 @@ p {
     width: 100%;
     height: 350px;
     background-color: rgb(34, 34, 37);
+}
+
+.section-1 p {
+    color: white;
+    padding: 0px 50px;
 }
